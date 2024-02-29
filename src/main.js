@@ -4,7 +4,7 @@
  * Refer: https://developer.paypal.com/docs/classic/api/
  **/
 
-const VERSION = 204;
+const VERSION = 218;
 const BASE_API_LIVE = 'https://api-3t.paypal.com/nvp';
 const BASE_API_SANDBOX = 'https://api-3t.sandbox.paypal.com/nvp';
 const TRACKING_URL_LIVE = 'https://www.paypal.com';
